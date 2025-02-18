@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Clojure & ClojureScript projects, and learning them hard along the way.
+- 🌱 Follow me, I'd love to connect!
+- 🌐 My blog: https://whatacold.io
